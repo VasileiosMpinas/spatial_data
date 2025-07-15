@@ -1,6 +1,3 @@
-## VASILEIOS MPINAS
-## 4434
-
 import csv
 
 #### Create a list of lists that contain the x and y in this form: [[x,y],[x,y],...]
