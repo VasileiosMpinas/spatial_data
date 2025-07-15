@@ -1,6 +1,3 @@
-## VASILEIOS MPINAS
-## 4434
-
 ##### second part ################
 
 ### Create a list from grid.dir
